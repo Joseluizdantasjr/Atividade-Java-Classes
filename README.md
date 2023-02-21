@@ -6,4 +6,4 @@ Trabalho de POO para trabalhar com a implementação de classes e outros conceit
 Jogo interativo entre um Oráculo e um Guerreiro
 ## Contexto 2: E-commerce Pós-Pandemia
 Sistema virtual de uma loja.
-Explicações e requisitos no pdf.
+|| Explicações e requisitos no pdf.
