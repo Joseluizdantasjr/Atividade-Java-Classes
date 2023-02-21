@@ -5,5 +5,5 @@ Trabalho de POO para trabalhar com a implementação de classes e outros conceit
 ## Contexto 1: Espírito Guerreiro
 Jogo interativo entre um Oráculo e um Guerreiro
 ## Contexto 2: E-commerce Pós-Pandemia
-Sistema virtual de uma loja
+Sistema virtual de uma loja.
 Explicações e requisitos no pdf.
